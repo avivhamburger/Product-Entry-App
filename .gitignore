@@ -1,0 +1,14 @@
+﻿# Configuration & Secrets
+config.json
+
+# Local Storage & Exports
+data/*.csv
+!data/.gitkeep
+exports/*.csv
+!exports/.gitkeep
+
+# Operating System & Editors
+.vscode/
+*.log
+Thumbs.db
+Desktop.ini
