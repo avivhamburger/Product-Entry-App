@@ -1,0 +1,4 @@
+{
+  "WebhookUrl": "https://script.google.com/macros/s/YOUR_WEBHOOK_ID_HERE/exec",
+  "SheetUrl": "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit"
+}
